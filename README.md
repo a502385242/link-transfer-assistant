@@ -18,6 +18,8 @@
 > between a phone and a PC over local Wi-Fi via QR code. No app install, no USB cable,
 > no cloud upload, no account. Scan the code, transfer, done.
 
+**[⬇ 下载最新版](../../releases/latest)** · Windows 10 / 11 · 约 20 MB · 免安装
+
 ---
 
 ## 目录
@@ -109,7 +111,14 @@
 
 ### 方式一：直接下载（推荐）
 
-到 [Releases](../../releases/latest) 下载 `林克传输助手.exe`，双击打开，无需安装。
+到 **[Releases](../../releases/latest)** 选一个：
+
+| 文件 | 说明 |
+|---|---|
+| `link-transfer-assistant-v1.0.0.zip` | 解压后是 `林克传输助手.exe` 和使用说明，**想保留中文文件名就下这个** |
+| `link-transfer-assistant-v1.0.0.exe` | 直接双击运行，免解压（下载后可自行改名，不影响使用） |
+
+双击打开，无需安装。
 
 > 首次运行 Windows 会弹防火墙提示，点 **允许访问**，否则手机连不上电脑。
 
