@@ -1,0 +1,28 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- PyInstaller ----
+build/
+dist/
+*.spec
+
+# ---- 本地发布目录（里面是打包好的 exe，走 GitHub Releases 发布，不进仓库）----
+林克传输助手/
+
+# ---- 本地预览图（docs/ 下有同名的 ASCII 版本，这里的是生成时的副本）----
+预览-*.png
+
+# ---- 编辑器与系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 临时产物 ----
+_shot*.png
+_*.log
